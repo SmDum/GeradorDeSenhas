@@ -23,7 +23,7 @@ Este é um projeto simples, prático e funcional que desenvolvi em Python utiliz
 
 ## 🖼️ Interface
 
-<img src="screenshot.png" alt="Screenshot do app" width="400">
+<img src="imagem.png" alt="Screenshot do app" width="400">
 
 ---
 
