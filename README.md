@@ -40,5 +40,5 @@ Este é um projeto simples, prático e funcional que desenvolvi em Python utiliz
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/gerador-senhas-python.git
+git clone https://github.com/SmDum/gerador-senhas-python.git
 cd gerador-senhas-python
